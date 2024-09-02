@@ -1,4 +1,3 @@
-// Profile.jsx
 import React from 'react';
 import ProductForm from '../Product/ProductForm'; 
 
@@ -10,7 +9,6 @@ const Profile = ({ username, email }) => {
       <p>Email: {email}</p>
       <h2>Add New Product</h2>
       <ProductForm />
-      {/* Add more profile content here */}
     </div>
   );
 };
