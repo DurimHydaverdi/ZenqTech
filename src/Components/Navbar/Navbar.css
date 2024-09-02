@@ -94,12 +94,12 @@
 }
 
 .nav-menu a {
-    color: #171717; /* Black color for text links in the menu */
-    text-decoration: none; /* Ensure text-decoration is none */
+    color: #171717; 
+    text-decoration: none; 
 }
 
 .nav-menu a:hover {
-    color: #000; /* Optional: black color on hover for better visual feedback */
+    color: #000; 
 }
 
 .nav-menu hr {
@@ -111,10 +111,9 @@
 }
 
 .nav-login-cart button {
-    color: #171717; /* Black color for button text */
+    color: #171717;
 }
 
-/* Ensure any other text elements in nav-login-cart are also styled */
 .nav-login-cart a {
-    color: #171717; /* Black color for cart and login link text */
+    color: #171717;
 }
